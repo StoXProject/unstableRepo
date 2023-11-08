@@ -31,3 +31,16 @@ Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: e90ef71bafc60ecb5919f3f77d370c30
 NeedsCompilation: yes
+
+Package: RstoxFramework
+Version: 3.6.3-9002
+Depends: R (>= 3.6)
+Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
+        3.0.0), jsonlite (>= 1.6), jsonvalidate (>= 1.3.0), methods (>=
+        3.6.0), ncdf4 (>= 1.18), RstoxBase (>= 1.11.4-9002), RstoxData
+        (>= 1.10.2-9002), scales (>= 1.1.0), semver (>= 0.2.0), sf (>=
+        0.9.0), stringi (>= 1.4.0)
+Suggests: remotes (>= 2.0.0), RstoxFDA (>= 1.2.0), tinytest (>= 1.2.0)
+License: LGPL-3
+MD5sum: 0849dd3d86cfcf0683350ec9c17c3cb5
+NeedsCompilation: no
