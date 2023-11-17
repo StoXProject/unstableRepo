@@ -7,7 +7,7 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
         stringi (>= 1.4.0), units (>= 0.7), xml2 (>= 1.2.0)
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
-MD5sum: c2c783ab1b36f7a2b69154a6a1d48307
+MD5sum: 56fc547040f8e2f4400896d6aec2c2d5
 
 Package: RstoxData
 Version: 1.10.2-9002
