@@ -27,7 +27,7 @@ Imports: data.table (>= 1.12.0), Rcpp (>= 1.0.0), stringi (>= 1.4.0),
 LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
-MD5sum: 9f1a1e746386d21f9f856510846b63aa
+MD5sum: 61e6cda00f99433b48a71f2e58e7603e
 
 Package: RstoxFramework
 Version: 3.6.3-9002
