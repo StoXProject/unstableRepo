@@ -39,6 +39,16 @@ Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: ab092114a1eae4d497601e40b85c777b
 
+Package: RstoxData
+Version: 1.10.2-9005
+Depends: R (>= 3.6)
+Imports: data.table (>= 1.12.0), Rcpp (>= 1.0.0), stringi (>= 1.4.0),
+        units (>= 0.7), xml2 (>= 1.2.0)
+LinkingTo: Rcpp
+Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
+License: LGPL-3
+MD5sum: cfbd806e6d0847c5fa124b3f57a1ae2a
+
 Package: RstoxFramework
 Version: 3.6.3-9002
 Depends: R (>= 3.6)
