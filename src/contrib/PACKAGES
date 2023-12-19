@@ -152,5 +152,5 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
         0.9.0), stringi (>= 1.4.0)
 Suggests: remotes (>= 2.0.0), RstoxFDA (>= 1.2.0), tinytest (>= 1.2.0)
 License: LGPL-3
-MD5sum: 22f71bf06a8d5b9fee59347260d79ce2
+MD5sum: 6a6fea82cb00855682723b4d0c513b38
 NeedsCompilation: no
