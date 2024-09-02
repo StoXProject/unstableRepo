@@ -150,7 +150,7 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
         units (>= 0.7), xml2 (>= 1.2.0)
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
-MD5sum: 27910dee2c7fbaf429a08400fe41cc1f
+MD5sum: c0f16d7c5ae9c301666a83dd8dd3427a
 
 Package: RstoxData
 Version: 1.10.2-9002
