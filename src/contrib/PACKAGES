@@ -498,5 +498,5 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
         0.9.0), stringi (>= 1.4.0)
 Suggests: remotes (>= 2.0.0), RstoxFDA (>= 1.2.0), tinytest (>= 1.2.0)
 License: LGPL-3
-MD5sum: 5fcd7771fa7aac331a04a411dc3c91f7
+MD5sum: faad6ad271b897436a879059ffb42db3
 NeedsCompilation: no
