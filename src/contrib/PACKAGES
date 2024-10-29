@@ -352,7 +352,7 @@ Imports: data.table (>= 1.12.0), Rcpp (>= 1.0.0), stringi (>= 1.4.0),
 LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
-MD5sum: 2eedfbab3d09366b14e0b08151af6c10
+MD5sum: 0025bf6a2edab0b79fb61a6e958b2fe3
 NeedsCompilation: yes
 
 Package: RstoxFDA
