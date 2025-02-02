@@ -159,7 +159,7 @@ Imports: data.table (>= 1.12.6), ggplot2 (>= 3.2.1), gridExtra (>=
         1.0.0), stats (>= 3.5.0), utils (>= 3.5.0)
 Suggests: knitr, Reca, rmarkdown, tinytest
 License: LGPL-3
-MD5sum: 1ff9e95ae06a4921939e8062a1cde56e
+MD5sum: 651114784bf32d141713c8933d0520f6
 
 Package: RstoxFramework
 Version: 4.0.1-9002
