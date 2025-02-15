@@ -95,8 +95,8 @@ Depends: R (>= 4.3)
 Imports: data.table (>= 1.12.6), ggplot2 (>= 3.2.1), gridExtra (>=
         2.3), methods (>= 3.5.0), RColorBrewer (>= 1.1-2),
         rnaturalearth (>= 1.0.1), rnaturalearthdata (>= 1.0.0),
-        RstoxBase (>= 2.1.2-9002), RstoxData (>= 2.1.2-9001), sf (>=
-        1.0.0), stats (>= 3.5.0), utils (>= 3.5.0)
+        RstoxBase (>= 2.1.1), RstoxData (>= 2.1.1), sf (>= 1.0.0),
+        stats (>= 3.5.0), utils (>= 3.5.0)
 Suggests: knitr, Reca, rmarkdown, tinytest
 License: LGPL-3
 
