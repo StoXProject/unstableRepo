@@ -550,6 +550,19 @@ License: LGPL-3
 MD5sum: fdbc3aa78d6010f277a667d1ba06e910
 NeedsCompilation: no
 
+Package: RstoxFDA
+Version: 1.5.0-9004
+Depends: R (>= 4.3)
+Imports: data.table (>= 1.12.6), ggplot2 (>= 3.2.1), gridExtra (>=
+        2.3), methods (>= 3.5.0), RColorBrewer (>= 1.1-2),
+        rnaturalearth (>= 1.0.1), rnaturalearthdata (>= 1.0.0),
+        RstoxBase (>= 2.1.1), RstoxData (>= 2.1.1), sf (>= 1.0.0),
+        stats (>= 3.5.0), utils (>= 3.5.0)
+Suggests: knitr, Reca, rmarkdown, tinytest
+License: LGPL-3
+MD5sum: 8ebb04fb2f7a5ac30018c24027a024ba
+NeedsCompilation: no
+
 Package: RstoxFramework
 Version: 3.6.3-9002
 Depends: R (>= 3.6)
