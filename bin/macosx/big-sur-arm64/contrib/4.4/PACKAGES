@@ -275,3 +275,15 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.2.0), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: b85cdcf81157725fd1c9b4ec81c41f13
+
+Package: RstoxFramework
+Version: 4.1.3-9003
+Depends: R (>= 4.3)
+Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
+        3.0.0), jsonlite (>= 1.6), jsonvalidate (>= 1.3.0), methods (>=
+        3.6.0), ncdf4 (>= 1.18), RstoxBase (>= 2.1.3-9001), RstoxData
+        (>= 2.1.4-9004), scales (>= 1.1.0), semver (>= 0.2.0), sf (>=
+        0.9.0), stringi (>= 1.4.0)
+Suggests: RstoxFDA (>= 1.2.0), tinytest (>= 1.2.0)
+License: LGPL-3
+MD5sum: 80d151789505ac7a9ceaec77440dcc8c
