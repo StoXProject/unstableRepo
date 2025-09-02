@@ -216,7 +216,7 @@ Imports: data.table (>= 1.12.6), ggplot2 (>= 3.2.1), gridExtra (>=
         1.0.0)
 Suggests: knitr, rmarkdown, tinytest
 License: LGPL-3
-MD5sum: 4b3007a85a9bd7c0b5fa6285222f99cf
+MD5sum: af1b7c2292ff651c10080f15cc215aca
 
 Package: RstoxFramework
 Version: 4.0.1-9005
