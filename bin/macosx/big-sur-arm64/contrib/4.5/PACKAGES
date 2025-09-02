@@ -71,7 +71,7 @@ Imports: data.table (>= 1.12.6), ggplot2 (>= 3.2.1), gridExtra (>=
         1.0.0)
 Suggests: knitr, rmarkdown, tinytest
 License: LGPL-3
-MD5sum: de0e564a21cccd29fc53b80a9cd724ce
+MD5sum: 762220e9166c2118b80f59a50477bb12
 
 Package: RstoxFramework
 Version: 4.1.4-9001
