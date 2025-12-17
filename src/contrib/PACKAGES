@@ -1297,3 +1297,16 @@ Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 353d80a2b4b472871ad7fa159dafcb9b
 NeedsCompilation: no
+
+Package: RstoxFramework
+Version: 4.2.0-9006
+Depends: R (>= 4.4)
+Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
+        3.0.0), jsonlite (>= 1.6), jsonvalidate (>= 1.3.0), methods (>=
+        3.6.0), ncdf4 (>= 1.18), RstoxBase (>= 2.2.0-9008), RstoxData
+        (>= 2.2.0-9010), scales (>= 1.1.0), semver (>= 0.2.0), sf (>=
+        0.9.0), stringi (>= 1.4.0)
+Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
+License: LGPL-3
+MD5sum: cca6d504f7665ee2eb27c25aba2f8512
+NeedsCompilation: no
