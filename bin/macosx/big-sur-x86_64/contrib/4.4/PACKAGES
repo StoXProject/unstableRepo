@@ -600,4 +600,4 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
         0.9.0), stringi (>= 1.4.0)
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
-MD5sum: e9fc8585ccedc86c9273f8f0506cbf3c
+MD5sum: 375983125cc6c6b8d23aecbd8203a12e
