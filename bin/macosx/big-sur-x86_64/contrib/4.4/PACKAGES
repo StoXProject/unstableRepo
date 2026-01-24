@@ -157,11 +157,11 @@ Version: 2.2.0-9009
 Depends: R (>= 4.4)
 Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
         3.0.0), jsonlite (>= 1.6), lwgeom (>= 0.2-0), maps (>= 0.2-0),
-        RstoxData (>= 2.2.0-9010), sf (>= 0.9.0), stringi (>= 1.4.0),
+        RstoxData (>= 2.2.0-9011), sf (>= 0.9.0), stringi (>= 1.4.0),
         units (>= 0.7), xml2 (>= 1.2.0)
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
-MD5sum: 9752efc69401552beff566ea79e0e48f
+MD5sum: 6c60d5dcbeb0f6f29fa6bc2abb13eaed
 
 Package: RstoxData
 Version: 2.0.1-9006
