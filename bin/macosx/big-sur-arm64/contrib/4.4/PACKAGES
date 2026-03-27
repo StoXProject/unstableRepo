@@ -678,4 +678,4 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
         0.9.0), stringi (>= 1.4.0)
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
-MD5sum: 3bef9cfafc9f33e73f20b881b08f128b
+MD5sum: 2c96bd544627655a7dd469bfbca6de8b
