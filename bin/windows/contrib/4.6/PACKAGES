@@ -7,4 +7,3 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 Archs: x64
-Built: R 4.6.0; x86_64-w64-mingw32; 2026-05-05 15:19:38 UTC; windows
