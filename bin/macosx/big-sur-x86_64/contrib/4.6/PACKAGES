@@ -8,6 +8,7 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 6ddbfef553b64783e3d4509183e6de83
+Built: R 4.6.0; ; 2026-05-07 07:45:42 UTC; unix
 
 Package: RstoxData
 Version: 2.2.1-9004
@@ -18,6 +19,7 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 56ed8a5dc9d5eac0083897a9c8f022a8
+Built: R 4.6.0; x86_64-apple-darwin20; 2026-05-05 15:32:23 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.1-9002
@@ -30,3 +32,4 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: a8d5619beb160e49be49d1a5f1c441c4
+Built: R 4.6.0; ; 2026-05-07 11:48:03 UTC; unix
