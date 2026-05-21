@@ -28,7 +28,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 4e6b04bf7f2d642027b614336e8fef75
-Built: R 4.6.0; x86_64-apple-darwin20; 2026-05-21 16:14:59 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.1-9002
