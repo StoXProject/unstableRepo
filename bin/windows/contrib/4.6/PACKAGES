@@ -7,6 +7,7 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
         units (>= 0.7), xml2 (>= 1.2.0)
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
+Built: R 4.6.0; ; 2026-05-07 07:39:11 UTC; windows
 
 Package: RstoxData
 Version: 2.2.1-9004
@@ -17,6 +18,7 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 Archs: x64
+Built: R 4.6.0; x86_64-w64-mingw32; 2026-05-05 15:19:38 UTC; windows
 
 Package: RstoxFramework
 Version: 4.2.1-9002
@@ -28,3 +30,4 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
         0.9.0), stringi (>= 1.4.0)
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
+Built: R 4.6.0; ; 2026-05-08 16:47:00 UTC; windows
