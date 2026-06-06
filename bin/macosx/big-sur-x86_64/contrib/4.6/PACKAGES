@@ -65,18 +65,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 127c4257f05c9a93aedb39cfb858295a
-File: RstoxData_2.2.1-9006.tgz
-Built: R 4.6.0; x86_64-apple-darwin20; 2026-06-06 20:38:49 UTC; unix
-
-Package: RstoxData
-Version: 2.2.1-9006
-Depends: R (>= 4.5)
-Imports: data.table (>= 1.18.0), Rcpp (>= 1.0.0), stringi (>= 1.4.0),
-        units (>= 0.7), xml2 (>= 1.2.0)
-LinkingTo: Rcpp
-Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
-License: LGPL-3
-MD5sum: 127c4257f05c9a93aedb39cfb858295a
 Built: R 4.6.0; x86_64-apple-darwin20; 2026-06-06 20:38:49 UTC; unix
 
 Package: RstoxFramework
