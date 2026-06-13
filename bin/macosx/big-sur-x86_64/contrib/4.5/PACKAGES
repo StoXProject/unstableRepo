@@ -8,7 +8,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: f313a80b5808464c588106d5f6b20a92
-Built: R 4.5.0; ; 2025-05-16 18:55:22 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.0-9001
@@ -20,7 +19,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: ad25b69f973838fef801189115125386
-Built: R 4.5.1; ; 2025-06-20 18:38:15 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.0-9002
@@ -32,7 +30,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: af00df768254704474c82f20af04aa5b
-Built: R 4.5.1; ; 2025-09-01 13:05:38 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.0-9003
@@ -44,7 +41,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 86091879ff542eadfcc50c1ea2504b61
-Built: R 4.5.1; ; 2025-10-01 17:16:29 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.0-9004
@@ -56,7 +52,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: d6b7a462dc7f74c356dd9c332b31477a
-Built: R 4.5.1; ; 2025-10-03 15:35:39 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.0-9005
@@ -68,7 +63,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 819e16dd653ff4ab75524a99a2163f16
-Built: R 4.5.1; ; 2025-10-23 21:10:31 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.0-9006
@@ -80,7 +74,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: fb332a2e9d6b03fc0373c3442b6db758
-Built: R 4.5.2; ; 2025-11-02 06:41:20 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.0-9007
@@ -92,7 +85,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 48c4914e284bcfd6ad3a055e4be13636
-Built: R 4.5.2; ; 2025-11-02 23:57:36 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.0-9008
@@ -104,7 +96,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: d640d5f4a01c2020624eb3e17627c282
-Built: R 4.5.2; ; 2025-12-03 12:26:30 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.0-9009
@@ -116,7 +107,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: fb468ac455456a99be15872d0be1b898
-Built: R 4.5.2; ; 2026-01-24 11:14:27 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.1-9001
@@ -128,7 +118,6 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: b00c94b20b62e28a16a05b4e476b0c89
-Built: R 4.5.3; ; 2026-05-07 07:41:03 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.1-9002
@@ -140,7 +129,6 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 40816cb968a2ad2aa34f59b580571072
-Built: R 4.5.3; ; 2026-05-21 19:43:53 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.1-9003
@@ -152,7 +140,6 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: f02d586a319bdcd9e3e1ead2629b6bf5
-Built: R 4.5.3; ; 2026-05-22 08:49:25 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.1-9004
@@ -164,7 +151,6 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 08f3c01c2b0d020c15769d74aa14b783
-Built: R 4.5.3; ; 2026-06-07 06:30:25 UTC; unix
 
 Package: RstoxBase
 Version: 2.2.1-9005
@@ -176,7 +162,6 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: a7cd0bf42e4e547d559978a86e68d15a
-Built: R 4.5.3; ; 2026-06-13 10:04:46 UTC; unix
 
 Package: RstoxData
 Version: 2.1.5-9001
@@ -187,7 +172,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: bd6985ddfa89b088cb3e8137c0c17360
-Built: R 4.5.0; x86_64-apple-darwin20; 2025-04-30 11:44:25 UTC; unix
 
 Package: RstoxData
 Version: 2.2.0-9001
@@ -198,7 +182,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: d4e84c28246f62f39322ea7953261df2
-Built: R 4.5.1; x86_64-apple-darwin20; 2025-06-20 14:53:00 UTC; unix
 
 Package: RstoxData
 Version: 2.2.0-9002
@@ -209,7 +192,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: d11629e74ac970648e719ae5cc47cdb9
-Built: R 4.5.1; x86_64-apple-darwin20; 2025-08-17 09:52:17 UTC; unix
 
 Package: RstoxData
 Version: 2.2.0-9003
@@ -220,7 +202,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 048ea7cdefdaba8e4e67b2b12538f3d5
-Built: R 4.5.1; x86_64-apple-darwin20; 2025-10-01 11:54:18 UTC; unix
 
 Package: RstoxData
 Version: 2.2.0-9004
@@ -231,7 +212,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 160bd8dbe7158da22cc85ec77c85a6ec
-Built: R 4.5.1; x86_64-apple-darwin20; 2025-10-23 16:33:41 UTC; unix
 
 Package: RstoxData
 Version: 2.2.0-9005
@@ -242,7 +222,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 23685f76c7780c69e8281b84924dcb6d
-Built: R 4.5.1; x86_64-apple-darwin20; 2025-10-30 08:29:09 UTC; unix
 
 Package: RstoxData
 Version: 2.2.0-9006
@@ -253,7 +232,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 48ad4cad7f3ffae149e5d34d581bca05
-Built: R 4.5.1; x86_64-apple-darwin20; 2025-11-01 10:15:01 UTC; unix
 
 Package: RstoxData
 Version: 2.2.0-9007
@@ -264,7 +242,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: b2a05c10b936215f20698452968e3a15
-Built: R 4.5.2; x86_64-apple-darwin20; 2025-12-03 08:51:26 UTC; unix
 
 Package: RstoxData
 Version: 2.2.0-9008
@@ -275,7 +252,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 79ed818e636636ac28fc277e25c3fd2b
-Built: R 4.5.2; x86_64-apple-darwin20; 2025-12-15 20:19:30 UTC; unix
 
 Package: RstoxData
 Version: 2.2.0-9009
@@ -286,7 +262,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 258dfa1defb99fd9586f8b963fe71444
-Built: R 4.5.2; x86_64-apple-darwin20; 2025-12-16 09:43:09 UTC; unix
 
 Package: RstoxData
 Version: 2.2.0-9010
@@ -297,7 +272,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 36b747652c053c4a53abd0851f8a1c26
-Built: R 4.5.2; x86_64-apple-darwin20; 2025-12-16 19:51:17 UTC; unix
 
 Package: RstoxData
 Version: 2.2.0-9011
@@ -308,7 +282,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: d9bcd4b7b48843810de55dc2dfc7a6d2
-Built: R 4.5.2; x86_64-apple-darwin20; 2026-01-23 02:34:05 UTC; unix
 
 Package: RstoxData
 Version: 2.2.1-9001
@@ -319,7 +292,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 9d40163313ff833ed8f0963af16ffa38
-Built: R 4.5.3; x86_64-apple-darwin20; 2026-03-13 20:10:21 UTC; unix
 
 Package: RstoxData
 Version: 2.2.1-9002
@@ -330,7 +302,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: c974dd34b2570eff491ded95ba8554cc
-Built: R 4.5.3; x86_64-apple-darwin20; 2026-03-20 12:15:53 UTC; unix
 
 Package: RstoxData
 Version: 2.2.1-9003
@@ -341,7 +312,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 07a2905b4657ce482521de8edd352f33
-Built: R 4.5.3; x86_64-apple-darwin20; 2026-03-21 09:21:35 UTC; unix
 
 Package: RstoxData
 Version: 2.2.1-9004
@@ -352,7 +322,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: dc07288c190c889d3a68713420f81096
-Built: R 4.5.3; x86_64-apple-darwin20; 2026-05-05 15:30:44 UTC; unix
 
 Package: RstoxData
 Version: 2.2.1-9005
@@ -363,7 +332,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: b1b30183b2f26e70b9e327afddbf8fe7
-Built: R 4.5.3; x86_64-apple-darwin20; 2026-06-02 11:18:33 UTC; unix
 
 Package: RstoxData
 Version: 2.2.1-9006
@@ -374,7 +342,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 4faadacd7d699ffd3a56fa81a53899b5
-Built: R 4.5.3; x86_64-apple-darwin20; 2026-06-06 20:34:38 UTC; unix
 
 Package: RstoxData
 Version: 2.2.1-9007
@@ -385,7 +352,6 @@ LinkingTo: Rcpp
 Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 4c415ff449ba630ddfcc14714f91df23
-Built: R 4.5.3; x86_64-apple-darwin20; 2026-06-13 07:35:47 UTC; unix
 
 Package: RstoxFDA
 Version: 1.7.0-9001
@@ -398,7 +364,6 @@ Imports: data.table (>= 1.12.6), ggplot2 (>= 3.2.1), gridExtra (>=
 Suggests: knitr, rmarkdown, tinytest
 License: LGPL-3
 MD5sum: 72c9b44db7af09ecec7ba8cf18c9d8ef
-Built: R 4.5.1; ; 2025-09-02 23:03:58 UTC; unix
 
 Package: RstoxFDA
 Version: 1.7.0-9999
@@ -411,7 +376,6 @@ Imports: data.table (>= 1.12.6), ggplot2 (>= 3.2.1), gridExtra (>=
 Suggests: knitr, rmarkdown, tinytest
 License: LGPL-3
 MD5sum: 02be59d950f4c9bca625f81e4e274524
-Built: R 4.5.2; ; 2025-11-03 09:53:11 UTC; unix
 
 Package: RstoxFramework
 Version: 4.1.4-9001
@@ -424,7 +388,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.2.0), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 686b63913858c35868af717ab1ac167c
-Built: R 4.5.0; ; 2025-04-28 18:22:45 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.0-9001
@@ -437,7 +400,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.2.0), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 8e3df34b9f8179d35521d4604780996a
-Built: R 4.5.1; ; 2025-06-21 05:49:10 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.0-9002
@@ -450,7 +412,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9001), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: d8023e8f815a118137a695e93495c48e
-Built: R 4.5.1; ; 2025-09-03 09:46:59 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.0-9003
@@ -463,7 +424,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9001), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 92a88edb5bab437abdbc7a659680c0cf
-Built: R 4.5.1; ; 2025-10-17 16:28:51 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.0-9004
@@ -476,7 +436,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9001), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: fd891f9336a9ec795c4449c623266626
-Built: R 4.5.2; ; 2025-11-03 13:02:55 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.0-9005
@@ -489,7 +448,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 78f055bf5ee5db4f84fe01fcdba6f1f9
-Built: R 4.5.2; ; 2025-12-03 18:37:26 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.0-9006
@@ -502,7 +460,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 03659d04bd5b5c7d2a4e2154314eec63
-Built: R 4.5.2; ; 2025-12-17 08:24:31 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.0-9007
@@ -515,7 +472,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 1e3388d9c782e0a5856896a146e6754b
-Built: R 4.5.2; ; 2026-01-24 20:37:24 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.1-9001
@@ -528,7 +484,6 @@ Imports: data.table (>= 1.12.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: b634b3a59a1b5ff5171fc5605f4a9260
-Built: R 4.5.3; ; 2026-03-27 13:46:10 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.1-9002
@@ -541,7 +496,6 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: fa1e5512a20a57b8ad6355e06bccf4a2
-Built: R 4.5.3; ; 2026-05-08 16:47:06 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.1-9003
@@ -554,7 +508,6 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 4b408da140b9db8962a661b63c7d1589
-Built: R 4.5.3; ; 2026-05-21 23:28:09 UTC; unix
 
 Package: RstoxFramework
 Version: 4.2.1-9004
@@ -567,4 +520,3 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: 5f812042831d9b57b186abb65d2734f6
-Built: R 4.5.3; ; 2026-05-22 13:18:09 UTC; unix
