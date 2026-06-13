@@ -86,6 +86,18 @@ MD5sum: 9bedc75507adae19767dcc8ccf349960
 Built: R 4.6.0; aarch64-apple-darwin23; 2026-06-06 20:26:15 UTC; unix
 File: RstoxData_2.2.1-9006.tgz
 
+Package: RstoxData
+Version: 2.2.1-9007
+Depends: R (>= 4.5)
+Imports: data.table (>= 1.18.0), Rcpp (>= 1.0.0), stringi (>= 1.4.0),
+        units (>= 0.7), xml2 (>= 1.2.0)
+LinkingTo: Rcpp
+Suggests: httr, knitr, rmarkdown, tinytest (>= 1.2.0)
+License: LGPL-3
+MD5sum: b18690ad24d6ad08d562144d56664d25
+Built: R 4.6.0; aarch64-apple-darwin23; 2026-06-13 07:21:13 UTC; unix
+File: RstoxData_2.2.1-9007.tgz
+
 Package: RstoxFramework
 Version: 4.2.1-9002
 Depends: R (>= 4.5)
