@@ -188,18 +188,4 @@ Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
 Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
 License: LGPL-3
 MD5sum: ebea4e21c13d966dd625d83e2c4ab7f4
-File: RstoxFramework_4.2.1-9006.tgz
-Built: R 4.6.0; ; 2026-06-23 22:19:41 UTC; unix
-
-Package: RstoxFramework
-Version: 4.2.1-9006
-Depends: R (>= 4.5)
-Imports: data.table (>= 1.18.0), geojsonsf (>= 2.0.0), ggplot2 (>=
-        3.0.0), jsonlite (>= 1.6), jsonvalidate (>= 1.3.0), methods (>=
-        3.6.0), ncdf4 (>= 1.18), RstoxBase (>= 2.2.1-9006), RstoxData
-        (>= 2.2.1-9008), scales (>= 1.1.0), semver (>= 0.2.0), sf (>=
-        0.9.0), stringi (>= 1.4.0)
-Suggests: RstoxFDA (>= 1.7.0-9999), tinytest (>= 1.2.0)
-License: LGPL-3
-MD5sum: ebea4e21c13d966dd625d83e2c4ab7f4
 Built: R 4.6.0; ; 2026-06-23 22:19:41 UTC; unix
